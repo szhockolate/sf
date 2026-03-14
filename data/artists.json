@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-03-22T12:00:00Z",
+  "artists": [
+    {
+      "id": "hana",
+      "name": "HANA",
+      "countryCode": "US",
+      "spotifyArtistId": "224Zsim3dmWXWYUXFuHv0o",
+      "links": {
+        "ig": "hanatruly",
+        "yt": "hanatruly",
+        "tt": "hanatruly",
+        "twitch": "hanawins"
+      }
+    },
+    {
+      "id": "sanaz",
+      "name": "Sanaz"
+    },
+    {
+      "id": "farius",
+      "name": "Farius"
+    },
+    {
+      "id": "sonin",
+      "name": "SØNIN"
+    },
+    {
+      "id": "grum",
+      "name": "Grum"
+    },
+    {
+      "id": "amy-wiles",
+      "name": "Amy Wiles",
+      "links": {
+        "ig": "amywilesmusic",
+        "x": "amywilesmusic"
+      }
+    },
+    {
+      "id": "kloyd",
+      "name": "Kloyd"
+    },
+    {
+      "id": "because-of-art",
+      "name": "Because of Art",
+      "links": {
+        "ig": "because_of_art"
+      }
+    },
+    {
+      "id": "braxton",
+      "name": "Braxton"
+    },
+    {
+      "id": "ezequiel-arias",
+      "name": "Ezequiel Arias"
+    },
+    {
+      "id": "spencer-brown",
+      "name": "Spencer Brown",
+      "spotifyArtistId": "4L9PX6lwPWo2NeuXL9kyJK",
+      "links": {
+        "ig": "spencerbrownofficial"
+      }
+    },
+    {
+      "id": "leaving-laurel",
+      "name": "Leaving Laurel"
+    },
+    {
+      "id": "amtrac",
+      "name": "Amtrac"
+    },
+    {
+      "id": "igor-garanin",
+      "name": "Igor Garanin"
+    },
+    {
+      "id": "noe-solange",
+      "name": "Noé Solange"
+    },
+    {
+      "id": "dom-donnelly",
+      "name": "Dom Donnelly"
+    }
+  ]
+}
